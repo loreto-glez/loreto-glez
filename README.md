@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- App Development Student :)
+- Currently doing an internship at Infoter
+
 <!--
 **loreto-glez/loreto-glez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
