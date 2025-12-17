@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there! My name is Loreto
 
-- App Development Student :)
-- Currently doing an internship at Infoter
+- I'm currently studying Multiplatform App Development :)
+- While doing an internship at Infoter, Spain
 
 <!--
 **loreto-glez/loreto-glez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
