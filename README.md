@@ -21,7 +21,7 @@ I came to programming from a background in translation and linguistic quality as
 
 ## 🚀 What I've built
 
-### Delivery management web app *(Infoter, 2025–2026)*
+### Delivery management web app
 A full-stack web application for a construction sector client, built from scratch using **PHP, Laravel and MySQL**. Features include:
 - Live truck weight capture
 - Automatic licence plate recognition via the [PlateRecognizer API](https://platerecognizer.com/)
